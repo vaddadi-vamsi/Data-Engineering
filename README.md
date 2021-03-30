@@ -1,2 +1,2 @@
 # test
-test repo
+test repo for git hub and git command demonistration
